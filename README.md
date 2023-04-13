@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Pandas, SQL, Tableau, Neo4j**
+- 💬 Ask me about **Pandas, SQL, Tableau**
 
 - 📫 How to reach me **patrick.chime234@gmail.com**
 
