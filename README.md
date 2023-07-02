@@ -17,6 +17,6 @@
 <a href="https://kaggle.com/patrick chukwuemeka chime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="patrick chukwuemeka chime" height="30" width="40" /></a>
 </p>
 
-<p align="left"><h3>Link to Portfolio:</h3><a href="https://www.datascienceportfol.io/patrickchime">datascienceportfol.io/patrickchime</a></p>
+<p><h3>Link to Portfolio:</h3><a href="https://www.datascienceportfol.io/patrickchime">datascienceportfol.io/patrickchime</a></p>
 
 
