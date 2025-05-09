@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif"> </p>
 <h1 align="center">Hi 👋, I'm Patrick Chukwuemeka Chime</h1>
-<h3 align="center">Python practitioner | Shares insights on Crypto, Blockchain, AI & ML on my X page.</h3>
+<h3 align="center">Python practitioner | I share insights on Crypto, Blockchain, AI & ML on my X page.</h3>
 
 - 📫 How to reach me **patrick.chime234@gmail.com**
 
